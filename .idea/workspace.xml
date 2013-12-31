@@ -1,59 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="02f1f5f0-1ffe-497a-9b49-b13d438e6382" name="Default" comment="initial save">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screens/cracks screen.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screens/cracks slow.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screens/cracks.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screens/cracks2.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screens/cracks2bw.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screens/cracks3.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screens/cracks3b.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screens/cracks3bw.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screens/cracks3bwhr.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screens/cracks4.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screens/cracks5.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screens/cracks6.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screens/cracks6bw.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/saved-parameters/ice" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/saved-parameters/islands" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/saved-parameters/slowDeepCracks2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/saved-parameters/slowDeepCracks" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/saved-parameters/slowbubbleCracks" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/saved-parameters/speckled cracks" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/saved-parameters/tear2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/saved-parameters/tear" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.name" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cracks.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/cracks/ImobileNode.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/cracks/Link.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/cracks/LinkLeft.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/cracks/LinkRight.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/cracks/Node.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/cracks/Sim.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/cracks/SimEngine.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/cracks/SimFrame.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/cracks/SimFrame_AboutBox.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/cracks/SimRenderer.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/cracks/SimView.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/cracks/SteadyStateIterationThread.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/cracks/Triangle.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/saved-parameters/fineCracks" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+    <list default="true" id="02f1f5f0-1ffe-497a-9b49-b13d438e6382" name="Default" comment="">
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
     <ignored path="Cracks.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="02f1f5f0-1ffe-497a-9b49-b13d438e6382" time="1388450641975" ignored="false" />
+    <file path="/Dummy.txt" changelist="02f1f5f0-1ffe-497a-9b49-b13d438e6382" time="1388450777713" ignored="false" />
     <file path="$PROJECT_DIR$/../../Fractal-Feedback/.idea/workspace.xml" changelist="02f1f5f0-1ffe-497a-9b49-b13d438e6382" time="1388441367797" ignored="false" />
     <file path="/fragment.java" changelist="02f1f5f0-1ffe-497a-9b49-b13d438e6382" time="1388442955433" ignored="false" />
     <file path="/Sim.java" changelist="02f1f5f0-1ffe-497a-9b49-b13d438e6382" time="1388445200578" ignored="false" />
@@ -398,10 +351,15 @@
       <created>1388441280113</created>
       <updated>1388441280113</updated>
     </task>
+    <task id="LOCAL-00001" summary="initial save">
+      <created>1388450786904</created>
+      <updated>1388450786904</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="12" y="22" width="1420" height="860" extended-state="0" />
+    <frame x="12" y="22" width="1420" height="860" extended-state="1" />
     <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32972974" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -423,7 +381,7 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2496361" sideWeight="0.6486486" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2496361" sideWeight="0.6486486" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.35135135" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
